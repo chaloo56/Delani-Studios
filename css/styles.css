@@ -2,6 +2,17 @@
     background-image: url('/assets/backgrounds/h_img.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-   
-
+    height: 0%;
+}
+.centered{
+    text-align: center;
+    color: white;
+    margin-left:25%;
+    margin-top:7%;
+    margin-bottom:14%;
+}
+.img-tx{
+    margin-bottom: 100px;
+    align-content: center;
+    margin-left: 50%;
 }
