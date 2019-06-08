@@ -2,7 +2,8 @@
     background-image: url('/assets/backgrounds/h_img.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    height: 0%;
+    height: 780px;
+    
 }
 .centered{
     text-align: center;
@@ -12,8 +13,8 @@
     margin-bottom:14%;
 }
 .img-tx{
-    margin-bottom: 100px;
-    align-content: center;
+    margin-bottom: 200px;
+   
     margin-left: 50%;
 }
 h1{
