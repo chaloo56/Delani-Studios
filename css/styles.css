@@ -31,9 +31,12 @@ h1{
     background-size: cover;
     background-repeat: no-repeat;
     height: 340px;
-    text-align: center;
 }
 .h1-2{
     color: aliceblue;
+    text-align:center;
+}
+.para2{
+    color: white;
 }
 
