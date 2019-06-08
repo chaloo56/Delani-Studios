@@ -26,3 +26,9 @@ h1{
     text-align: center;
     margin: 2% 20% 5% 20%;
 }
+.row-yx{
+    background-image: url('/assets/backgrounds/s_image.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 340px;
+}
