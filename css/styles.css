@@ -44,4 +44,11 @@ h1{
     flex-direction: center;
     justify-content:space-around; 
 }
+h3{
+    text-align: center;
+    margin: 50px;
+}
+.contain-f{
+    padding: 15px;
+}
 
