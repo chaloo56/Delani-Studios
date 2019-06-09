@@ -39,4 +39,9 @@ h1{
 .para2{
     color: white;
 }
+.cont-a{
+    display: flex;
+    flex-direction: center;
+    justify-content:space-around; 
+}
 
