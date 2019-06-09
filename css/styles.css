@@ -50,5 +50,6 @@ h3{
 }
 .contain-f{
     padding: 15px;
+    justify-content: space-between;
 }
 
