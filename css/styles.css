@@ -1,3 +1,7 @@
+body{
+    margin:0px;
+    overflow-x: hidden;
+}
 .row-tx{
     background-image: url('/assets/backgrounds/h_img.jpg');
     background-size: cover;
@@ -71,8 +75,8 @@ h3{
     opacity: 0.55;
     font-weight: bolder;
 }
-img{
-    -webkit-box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 14px 9px 5px 5px rgba(0,0,0,0.1); 
-box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 14px 9px 5px 5px rgba(0,0,0,0.1);
+.rmx{
+    background: none;
+    opacity: 0.4;
 }
 

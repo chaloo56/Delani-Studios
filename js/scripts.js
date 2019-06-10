@@ -1,8 +1,8 @@
 
 $(document).ready(function(){
-    $(".road").hide();
+    $(".load").hide();
   $(".contain-f").hover(function(){
-      $(this).find(".road").toggle(400);
+      $(this).find(".load").toggle(400);
   });
   
   });
