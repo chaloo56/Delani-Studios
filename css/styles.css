@@ -79,4 +79,8 @@ h3{
     background: none;
     opacity: 0.4;
 }
+.col{
+    align-content: center;
+    text-align: center;
+}
 
