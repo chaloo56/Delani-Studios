@@ -60,4 +60,19 @@ h3{
     text-align: center;
     padding-top: 3%;
 }
+.kati{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+    background: white;
+    opacity: 0.55;
+    font-weight: bolder;
+}
+img{
+    -webkit-box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 14px 9px 5px 5px rgba(0,0,0,0.1); 
+box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 14px 9px 5px 5px rgba(0,0,0,0.1);
+}
 
